@@ -5,6 +5,7 @@
 <ul>
     @foreach (var todo in todos)
     {
+        <input type="checkbox" @bind="todo.IsDone" />
         <li>@todo.Title</li>
     }
 </ul>
