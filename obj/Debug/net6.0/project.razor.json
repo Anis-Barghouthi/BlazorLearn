@@ -78,39 +78,6 @@
         }
       },
       {
-        "HashCode": 526204319,
-        "Kind": "Components.Component",
-        "Name": "BlazorLearn.Pages.Todo",
-        "AssemblyName": "BlazorLearn",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Todo"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorLearn.Pages.Todo"
-        }
-      },
-      {
-        "HashCode": 1704999542,
-        "Kind": "Components.Component",
-        "Name": "BlazorLearn.Pages.Todo",
-        "AssemblyName": "BlazorLearn",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorLearn.Pages.Todo"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorLearn.Pages.Todo",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -2048259182,
         "Kind": "Components.Component",
         "Name": "BlazorLearn.Pages.Counter",
@@ -160,6 +127,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorLearn.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 526204319,
+        "Kind": "Components.Component",
+        "Name": "BlazorLearn.Pages.Todo",
+        "AssemblyName": "BlazorLearn",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorLearn.Pages.Todo"
+        }
+      },
+      {
+        "HashCode": 1704999542,
+        "Kind": "Components.Component",
+        "Name": "BlazorLearn.Pages.Todo",
+        "AssemblyName": "BlazorLearn",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorLearn.Pages.Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorLearn.Pages.Todo",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
