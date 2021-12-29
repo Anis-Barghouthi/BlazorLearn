@@ -45,6 +45,39 @@
         }
       },
       {
+        "HashCode": 2042348331,
+        "Kind": "Components.Component",
+        "Name": "BlazorLearn.Pages.Index",
+        "AssemblyName": "BlazorLearn",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorLearn.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -723113202,
+        "Kind": "Components.Component",
+        "Name": "BlazorLearn.Pages.Index",
+        "AssemblyName": "BlazorLearn",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorLearn.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorLearn.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -2048259182,
         "Kind": "Components.Component",
         "Name": "BlazorLearn.Pages.Counter",
@@ -98,35 +131,35 @@
         }
       },
       {
-        "HashCode": 2042348331,
+        "HashCode": 526204319,
         "Kind": "Components.Component",
-        "Name": "BlazorLearn.Pages.Index",
+        "Name": "BlazorLearn.Pages.Todo",
         "AssemblyName": "BlazorLearn",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "Todo"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorLearn.Pages.Index"
+          "Common.TypeName": "BlazorLearn.Pages.Todo"
         }
       },
       {
-        "HashCode": -723113202,
+        "HashCode": 1704999542,
         "Kind": "Components.Component",
-        "Name": "BlazorLearn.Pages.Index",
+        "Name": "BlazorLearn.Pages.Todo",
         "AssemblyName": "BlazorLearn",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorLearn.Pages.Index"
+            "TagName": "BlazorLearn.Pages.Todo"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorLearn.Pages.Index",
+          "Common.TypeName": "BlazorLearn.Pages.Todo",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16635,6 +16668,11 @@
       "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/Pages/_Host.cshtml",
       "TargetPath": "Pages\\_Host.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/Pages/Todo.razor",
+      "TargetPath": "Pages\\Todo.razor",
+      "FileKind": "component"
     },
     {
       "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/_Imports.razor",
