@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorLearn", "BlazorTodo\BlazorLearn.csproj", "{91711DAC-E48E-4DAD-B91D-FE29B94BDAB0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorTodo", "BlazorTodo\BlazorLearn.csproj", "{91711DAC-E48E-4DAD-B91D-FE29B94BDAB0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazingPizza", "BlazingPizza\BlazingPizza.csproj", "{19614525-309C-4BAB-82BE-17B7E6EAAA66}"
 EndProject
