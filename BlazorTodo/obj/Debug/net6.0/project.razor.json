@@ -1,5 +1,5 @@
 {
-  "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/BlazorLearn.csproj",
+  "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/BlazorTodo/BlazorLearn.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -11,6 +11,59 @@
   },
   "ProjectWorkspaceState": {
     "TagHelpers": [
+      {
+        "HashCode": -2048259182,
+        "Kind": "Components.Component",
+        "Name": "BlazorLearn.Pages.Counter",
+        "AssemblyName": "BlazorLearn",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "IncrementAmount",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "IncrementAmount"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorLearn.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": -1402345024,
+        "Kind": "Components.Component",
+        "Name": "BlazorLearn.Pages.Counter",
+        "AssemblyName": "BlazorLearn",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorLearn.Pages.Counter"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "IncrementAmount",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "IncrementAmount"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorLearn.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
       {
         "HashCode": -297779965,
         "Kind": "Components.Component",
@@ -74,59 +127,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorLearn.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -2048259182,
-        "Kind": "Components.Component",
-        "Name": "BlazorLearn.Pages.Counter",
-        "AssemblyName": "BlazorLearn",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "IncrementAmount",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "IncrementAmount"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorLearn.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": -1402345024,
-        "Kind": "Components.Component",
-        "Name": "BlazorLearn.Pages.Counter",
-        "AssemblyName": "BlazorLearn",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorLearn.Pages.Counter"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "IncrementAmount",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "IncrementAmount"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorLearn.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16665,63 +16665,63 @@
   "RootNamespace": "BlazorLearn",
   "Documents": [
     {
-      "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/Pages/_Host.cshtml",
-      "TargetPath": "Pages\\_Host.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/Pages/Todo.razor",
-      "TargetPath": "Pages\\Todo.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/_Imports.razor",
-      "TargetPath": "_Imports.razor",
-      "FileKind": "componentImport"
-    },
-    {
-      "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/App.razor",
-      "TargetPath": "App.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/Pages/Index.razor",
-      "TargetPath": "Pages\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/Pages/Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/Pages/FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/Shared/MainLayout.razor",
-      "TargetPath": "Shared\\MainLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/Shared/NavMenu.razor",
-      "TargetPath": "Shared\\NavMenu.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/Pages/Counter.razor",
+      "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/BlazorTodo/Pages/Counter.razor",
       "TargetPath": "Pages\\Counter.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/Pages/_Layout.cshtml",
+      "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/BlazorTodo/_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/BlazorTodo/Shared/NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/BlazorTodo/Pages/Todo.razor",
+      "TargetPath": "Pages\\Todo.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/BlazorTodo/Pages/FetchData.razor",
+      "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/BlazorTodo/Pages/_Host.cshtml",
+      "TargetPath": "Pages\\_Host.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/BlazorTodo/Pages/Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/BlazorTodo/Shared/SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/BlazorTodo/App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/BlazorTodo/Pages/Index.razor",
+      "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/BlazorTodo/Pages/_Layout.cshtml",
       "TargetPath": "Pages\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/Shared/SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FilePath": "/home/user/Desktop/d/cs/BlazorLearn/BlazorTodo/Shared/MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
     }
   ],

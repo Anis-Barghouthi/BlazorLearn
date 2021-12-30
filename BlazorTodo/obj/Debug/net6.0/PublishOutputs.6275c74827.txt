@@ -1,0 +1,7 @@
+/home/user/Desktop/d/cs/BlazorLearn/BlazorTodo/bin/Debug/net6.0/publish/BlazorLearn
+/home/user/Desktop/d/cs/BlazorLearn/BlazorTodo/bin/Debug/net6.0/publish/appsettings.Development.json
+/home/user/Desktop/d/cs/BlazorLearn/BlazorTodo/bin/Debug/net6.0/publish/appsettings.json
+/home/user/Desktop/d/cs/BlazorLearn/BlazorTodo/bin/Debug/net6.0/publish/BlazorLearn.dll
+/home/user/Desktop/d/cs/BlazorLearn/BlazorTodo/bin/Debug/net6.0/publish/BlazorLearn.deps.json
+/home/user/Desktop/d/cs/BlazorLearn/BlazorTodo/bin/Debug/net6.0/publish/BlazorLearn.runtimeconfig.json
+/home/user/Desktop/d/cs/BlazorLearn/BlazorTodo/bin/Debug/net6.0/publish/BlazorLearn.pdb

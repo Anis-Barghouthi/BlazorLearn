@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "BlazingPizzaSite/1.0.0": {
+      "BlazorLearn/1.0.0": {
         "runtime": {
-          "BlazingPizzaSite.dll": {}
+          "BlazorLearn.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "BlazingPizzaSite/1.0.0": {
+    "BlazorLearn/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
