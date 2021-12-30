@@ -65,6 +65,39 @@
         }
       },
       {
+        "HashCode": 526204319,
+        "Kind": "Components.Component",
+        "Name": "BlazorLearn.Pages.Todo",
+        "AssemblyName": "BlazorLearn",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorLearn.Pages.Todo"
+        }
+      },
+      {
+        "HashCode": 1704999542,
+        "Kind": "Components.Component",
+        "Name": "BlazorLearn.Pages.Todo",
+        "AssemblyName": "BlazorLearn",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorLearn.Pages.Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorLearn.Pages.Todo",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -297779965,
         "Kind": "Components.Component",
         "Name": "BlazorLearn.Pages.FetchData",
@@ -131,68 +164,35 @@
         }
       },
       {
-        "HashCode": 526204319,
+        "HashCode": -314664059,
         "Kind": "Components.Component",
-        "Name": "BlazorLearn.Pages.Todo",
+        "Name": "BlazorLearn.Shared.NavMenu",
         "AssemblyName": "BlazorLearn",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Todo"
+            "TagName": "NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorLearn.Pages.Todo"
+          "Common.TypeName": "BlazorLearn.Shared.NavMenu"
         }
       },
       {
-        "HashCode": 1704999542,
+        "HashCode": 809432897,
         "Kind": "Components.Component",
-        "Name": "BlazorLearn.Pages.Todo",
+        "Name": "BlazorLearn.Shared.NavMenu",
         "AssemblyName": "BlazorLearn",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorLearn.Pages.Todo"
+            "TagName": "BlazorLearn.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorLearn.Pages.Todo",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 736509717,
-        "Kind": "Components.Component",
-        "Name": "BlazorLearn.App",
-        "AssemblyName": "BlazorLearn",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorLearn.App"
-        }
-      },
-      {
-        "HashCode": -1667221876,
-        "Kind": "Components.Component",
-        "Name": "BlazorLearn.App",
-        "AssemblyName": "BlazorLearn",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorLearn.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorLearn.App",
+          "Common.TypeName": "BlazorLearn.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -346,35 +346,35 @@
         }
       },
       {
-        "HashCode": -314664059,
+        "HashCode": 736509717,
         "Kind": "Components.Component",
-        "Name": "BlazorLearn.Shared.NavMenu",
+        "Name": "BlazorLearn.App",
         "AssemblyName": "BlazorLearn",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorLearn.Shared.NavMenu"
+          "Common.TypeName": "BlazorLearn.App"
         }
       },
       {
-        "HashCode": 809432897,
+        "HashCode": -1667221876,
         "Kind": "Components.Component",
-        "Name": "BlazorLearn.Shared.NavMenu",
+        "Name": "BlazorLearn.App",
         "AssemblyName": "BlazorLearn",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorLearn.Shared.NavMenu"
+            "TagName": "BlazorLearn.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorLearn.Shared.NavMenu",
+          "Common.TypeName": "BlazorLearn.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
