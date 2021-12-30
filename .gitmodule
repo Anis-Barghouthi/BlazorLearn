@@ -1,0 +1,3 @@
+[submodule "BlazingPizza"]
+	path = BlazingPizza
+	url = git://github.com/anis-barghouthi/BlazorLearn/BlazingPizza.git
