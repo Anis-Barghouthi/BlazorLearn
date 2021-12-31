@@ -7,6 +7,9 @@ namespace BlazingPizza.Data
 {
     public class PizzaService
     {
-        // Call your data access technology here
+        public Task<Pizza[]> GetPizzasAsync()
+        {
+            // Call your data access technology here
+        }
     }
 }
