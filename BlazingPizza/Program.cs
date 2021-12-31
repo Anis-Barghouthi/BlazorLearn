@@ -1,11 +1,14 @@
 using BlazingPizza.Data;
 using BlazingPizza;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
+builder.Services.AddHttpClient();
+builder.Services.AddSqlite<PizzaStoreContext>("Data Source=pizza.db");
 // Register the pizzas service
 builder.Services.AddSingleton<PizzaService>();
 
@@ -22,6 +25,7 @@ app.UseRouting();
 app.MapRazorPages();
 app.MapBlazorHub();
 app.MapFallbackToPage("/_Host");
+app.MapControllerRoute("default", "{controller=Home}/{action=Index}/{id?}");
 
 // Initialize the database
 var scopeFactory = app.Services.GetRequiredService<IServiceScopeFactory>();
