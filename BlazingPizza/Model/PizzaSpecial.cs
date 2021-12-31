@@ -1,4 +1,4 @@
-﻿namespace BlazingPizza.Model
+﻿namespace BlazingPizza
 {
     /// <summary>
     /// Represents a pre-configured template for a pizza a user can order
