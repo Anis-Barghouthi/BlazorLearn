@@ -7,12 +7,21 @@
 
 <p>We have all these delicious recipes:</p>
 
-
 @code {
-    private Pizza[] todaysPizzas;
+    #nullable enable
+    private Pizza[]? todaysPizzas = null;
 
     protected override async Task OnInitializedAsync()
     {
-        todaysPizzas = await PizzaSvc.GetPizzasAsync();
+        //todaysPizzas = await PizzaSvc.GetPizzasAsync();
     }
+}
+
+@if (todaysPizzas == null)
+{
+    <p>We're finding out what pizzas are available today...</p>
+}
+else
+{
+    <!-- This markup will be rendered once the pizzas are loaded -->
 }
